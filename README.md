@@ -21,3 +21,14 @@
 ``` \kojun_erlang ```
 
 ---
+# Executar o código:
+### Em Haskell:
+``` ghc -o <nome do executável> kojun.hs```
+
+```./<nome do executavel>```
+### Em Erlang:
+`` erlc kojun.erl ``
+
+``erl``
+
+``kojun:start().``
