@@ -38,3 +38,5 @@
 `` swipl -o <nome do executável> -c kojun.pl``
 
 ``./<nome do executável>``
+
+``solucionador(<n. do tabuleiro>).``
