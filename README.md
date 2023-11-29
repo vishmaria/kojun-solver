@@ -18,7 +18,7 @@
 #### Versão Haskell:
 ```/kojun_haskell/kojun.hs```
 #### Versão Erlang:
-``` /kojun_erlang/kojun.erl```
+```/kojun_erlang/kojun.erl```
 #### Versão Prolog:
 ```/kojun_prolog/kojun.pl```
 
@@ -36,4 +36,5 @@
 ``kojun:start().``
 ### Em Prolog:
 `` swipl -o <nome do executável> -c kojun.pl``
+
 ``./<nome do executável>``
